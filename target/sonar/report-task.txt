@@ -1,0 +1,6 @@
+projectKey=com.flipkart:flipkart
+serverUrl=http://localhost:9000
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9000/dashboard?id=com.flipkart%3Aflipkart
+ceTaskId=AWr-Mb_uEtT1fvnhV8ke
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWr-Mb_uEtT1fvnhV8ke
