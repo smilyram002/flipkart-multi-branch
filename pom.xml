@@ -9,7 +9,18 @@
 
 
  		<!-- <url>http://127.0.0.1:9000</url> -->
-
+<distributionManagement>
+	  <snapshotRepository>
+		  <id>nexus</id>
+		  <name>YAMASANIMART</name>
+		  <url>http://127.0.0.1:8081/repository/YAMASANI-SNAPSHOT/</url>
+	  </snapshotRepository>
+	  <repository>
+		  <id>nexus</id>
+		  <name>YAMASANIMART</name>
+		  <url>http://127.0.0.1:8081/repository/YAMASANI-RELEASE/</url>
+	  </repository>
+ </distributionManagement>
 
   <!-- <url>http://maven.apache.org</url>-->
   <dependencies>
